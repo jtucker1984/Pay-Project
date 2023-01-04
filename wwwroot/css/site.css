@@ -1,0 +1,24 @@
+﻿html {
+  
+}
+
+@media (min-width: 768px) {
+  html {
+    
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  
+}
+.MainImage {
+
+    position:relative;
+    margin:auto;
+    
+}
